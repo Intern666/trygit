@@ -1,3 +1,3 @@
-My first Git test
+This is a modified versiont
 have a try
 mike
